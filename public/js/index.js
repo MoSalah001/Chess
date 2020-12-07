@@ -27,6 +27,7 @@ window.onload = () => {
     }
   }
   function test() {
+    this.classList.toggle("active");
     console.log(this);
   }
 };

@@ -3,13 +3,14 @@
     margin: 0;
 }
 .board {
-    width: 656px;
+    width: 710px;
     height: 656px;
     display: flex;
     flex-wrap: wrap;
     margin: 20px auto;
-    background-color: blue;
+    background-color: pink;
     border: 2px solid red;
+    justify-content: center;
 }
 
 
@@ -30,4 +31,10 @@
     margin: 0;
     background-color: orange;
     border: 1px solid black;
+}
+
+.active {
+    border: 3px solid rgb(3, 36, 182);
+    width: 76px;
+    height: 76px;
 }
