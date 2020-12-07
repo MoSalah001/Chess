@@ -2,9 +2,21 @@ window.onload = () => {
   console.log("done");
   const board = document.querySelector(".board");
   const width = 8;
-  for (let i = 0; i < width * width; i++) {
+  // prettier-ignore
+  const layout = [
+    1,0,1,0,1,0,1,0,
+    0,1,0,1,0,1,0,1,
+    1,0,1,0,1,0,1,0,
+    0,1,0,1,0,1,0,1,
+    1,0,1,0,1,0,1,0,
+    0,1,0,1,0,1,0,1,
+    1,0,1,0,1,0,1,0,
+    0,1,0,1,0,1,0,1
+  ]
+
+  for (let i = 0; i < layout.length; i++) {
     const squre = document.createElement("div");
-    if (i > i + 2) {
+    if (layout[i] === 1) {
       squre.classList.add("box");
       board.appendChild(squre);
     } else {
