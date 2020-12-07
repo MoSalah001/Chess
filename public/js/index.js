@@ -15,13 +15,18 @@ window.onload = () => {
   ]
 
   for (let i = 0; i < layout.length; i++) {
-    const squre = document.createElement("div");
+    const square = document.createElement("div");
     if (layout[i] === 1) {
-      squre.classList.add("box");
-      board.appendChild(squre);
+      square.classList.add("box");
+      board.appendChild(square);
+      square.addEventListener("click", test);
     } else {
-      squre.classList.add("box2");
-      board.appendChild(squre);
+      square.classList.add("box2");
+      board.appendChild(square);
+      square.addEventListener("click", test);
     }
+  }
+  function test() {
+    console.log(this);
   }
 };
