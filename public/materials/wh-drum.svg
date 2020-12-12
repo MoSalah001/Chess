@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1841"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="wh-drum.svg">
+  <defs
+     id="defs1835" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1267"
+     inkscape:window-height="860"
+     inkscape:window-x="50"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="4.72366"
+       d="m 203.92911,293.05759 c 3.60522,0 6.51986,-3.06534 6.51986,-6.85453 v -16.10551 c 0,-3.78901 -2.91464,-6.85227 -6.51986,-6.85227 H 7.6523444 c -3.6031227,0 -6.5198476,3.06326 -6.5198476,6.85227 v 16.10551 c 0,3.78907 2.9164612,6.85453 6.5198476,6.85453 z"
+       id="path96" />
+    <rect
+       x="11.675922"
+       y="237.86574"
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="4.72366"
+       width="188.23372"
+       height="25.384838"
+       id="rect98" />
+    <polygon
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="3.4947"
+       stroke-linejoin="bevel"
+       points="-526.3322,80.3635 -383.5658,80.3635 -398.2454,63.9094 -511.6526,63.9094 "
+       id="polygon100"
+       transform="matrix(1.3184733,0,0,1.3857033,705.63091,126.5057)" />
+    <polygon
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="3.4947"
+       stroke-linejoin="round"
+       points="-530.8688,-51.3664 -379.092,-51.3664 -398.2454,-33.0436 -511.6526,-33.0436 "
+       id="polygon102"
+       transform="matrix(1.3184733,0,0,1.3857033,705.63091,126.5057)" />
+    <rect
+       x="31.030714"
+       y="80.71711"
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="4.72366"
+       width="149.32515"
+       height="134.36127"
+       id="rect104" />
+    <path
+       fill="#ffffff"
+       stroke="#20201e"
+       stroke-width="4.72366"
+       stroke-linecap="square"
+       d="m 199.6566,5.244614 h -34.82894 v 23.538967 l -19.54519,6.803513 -18.02194,-6.803513 V 5.244614 H 84.328424 V 28.783581 L 66.306497,35.587094 46.759328,28.783581 V 5.244614 h -34.82906 c -3.4431964,0 -6.2341406,3.0653556 -6.2341406,6.848042 V 55.400867 H 205.89691 V 12.092656 c -0.003,-3.7841037 -2.79578,-6.8488815 -6.23858,-6.8488815 z"
+       id="path106" />
+  </g>
+</svg>

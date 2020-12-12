@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1112"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="wh-horse.svg">
+  <defs
+     id="defs1106">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1707"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,0.54098901"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1705"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1701"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="1,0.33864"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1117"
+       x="-1.1635896e-06"
+       width="1.0000023"
+       y="-1.2387627e-06"
+       height="1.0000025">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00010281209"
+         id="feGaussianBlur1119" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47817005"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1879"
+       transform="matrix(3.672574,0,0,5.5413338,-224.68214,-882.43695)">
+      <path
+         fill="#ffffff"
+         stroke="#20201e"
+         stroke-width="0.924639"
+         d="m 103.53469,166.1697 c 0,0.26678 -0.92348,-4.10923 -0.92348,-5.65451 0,-0.69223 -0.69135,-0.80801 -1.38438,0.11543 -0.69257,0.92306 -3.807987,5.42362 -3.807987,5.42362 l 6.109837,0.11488 z"
+         id="path214"
+         sodipodi:nodetypes="cscccc" />
+      <path
+         fill="#ffffff"
+         stroke="#20201e"
+         stroke-width="3.4947"
+         d="m 2.2868467,169.04874 c 1.1829,-8.4583 2.802,-16.5217 4.7698,-24.1872 l 6.3199003,-2.5224 -4.2183003,-5.0479 c 2.4026003,-8.1081 5.1971003,-15.7427 8.2676003,-22.9199 l 5.9804,-1.6898 -2.9571,-5.057 c 3.2122,-6.8251 6.664,-13.191202 10.2449,-19.119402 l 5.5764,-1.1199 -2.0001,-4.604 c 4.0172,-6.1969 8.1433,-11.8564 12.237,-16.9933 l 5.9021,-0.6467 -1.5761,-4.5961 c 4.7899,-5.6255 9.4584,-10.5183 13.7748,-14.6982 l 5.9037,-0.3318 -1.0323,-4.229 c 10.529,-9.5273 17.9686,-14.1637 17.9686,-14.1637 l 13.375603,4.0723 c 0,0 6.3951,-3.4903 11.6305,-6.979 0,0 3.4871,-11.6305 4.6483,-18.0271005 1.166,-6.39659999 4.6531,-3.4903 5.8159,-1.7451 1.166,1.7451 13.2312,15.1176005 13.2312,15.1176005 0,0 7.2184,-0.9862 12.3585,0 7.5566,1.4578 11.0466,6.5442 19.7738,14.8303 6.3582,6.0449 10.1741,11.3432 12.3541,17.01 2.1798,5.6699 -0.4347,5.6699 0.4347,10.9037 0.8772,5.2338 24.4269,44.485702 27.0397,49.283502 2.6223,4.7975 8.9406,19.4696 -3.4855,28.7848 -3.4871,2.6176 -6.1078,3.9295 -8.2846,4.7975 0,0 -3.4918,-0.8679 -4.7975,-2.613 -0.2335,-0.3118 -0.3533,-0.5023 -0.4102,-0.6083 -0.0415,-0.1167 -0.0645,-0.1244 0,0 0.1337,0.3395 0.4378,1.6145 -0.9002,3.2213 -2.1814,2.6192 -4.9818,2.4241 -6.541,2.6192 -2.3273,0.2919 -6.5426,-1.742 -10.0329,-6.979 -3.4903,-5.2338 -5.6699,-6.9806 -8.2893,-10.0329 -2.613,-3.0524 -17.0487,-9.807 -22.6802,-19.1899 -1.3073,-2.1767 -4.3595,-1.3088 -6.5395,0.4378 -2.1798,1.7451 -14.394,2.1829 -19.6247,-6.5442 0,0 -2.4748,22.9444 7.8498,38.8196 17.0071,26.1688 45.7945,32.7068 54.5217,57.1362 H 2.4674902e-4 c 0,-8.4413 0.44550000098,-16.5462 1.25049995098,-24.3423 l 5.9464,-3.1369 -4.9803,-4.845 z"
+         id="path216"
+         style="filter:url(#filter1117)"
+         transform="matrix(0.26458333,0,0,0.26458333,61.526725,159.50471)" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 86.512056,169.29954 c 0,0 -20.154133,15.07982 -20.154133,42.31272"
+         id="path218" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 112.10012,197.06518 c -0.0166,-0.0333 -0.0166,-0.0333 0,0 z"
+         id="path220" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 90.665751,179.75952 c -0.384493,4.3071 1.616022,7.38434 1.692857,7.65337 0,0 -4.847671,-2.49963 -5.308575,-5.80851"
+         id="path222" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 92.355512,187.41762 c 0,0 -3.232044,1.57824 -5.616311,0.57799"
+         id="path224" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 112.20834,197.22335 c 0,0 -2.15458,-2.7699 -2.77075,-4.03924"
+         id="path226" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 98.931519,171.49293 c 0,0 3.548271,0.0167 4.731891,1.96115 1.61478,2.65454 -0.23085,3.0004 -0.23085,3.0004 0,0 -1.84611,0.57756 -3.11587,-1.15345 -1.35141,-1.84327 -0.23085,-3.0004 -0.23085,-3.0004 l -1.148712,-0.80828 z"
+         id="path228" />
+      <path
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         d="m 116.12896,191.22172 c -1.27058,-0.34589 -2.07775,-0.23005 -2.65369,0.11584 0,0 0.57594,-1.73106 -0.46173,-3.23165 -1.03965,-1.50016 -2.76989,-1.61602 -4.27013,-4.50056"
+         id="path230" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="82.433266"
+         y1="173.10779"
+         x2="80.244049"
+         y2="171.7235"
+         id="line232" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="77.932465"
+         y1="178.06973"
+         x2="75.739098"
+         y2="177.03172"
+         id="line234" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="73.894501"
+         y1="183.82997"
+         x2="71.355659"
+         y2="182.78947"
+         id="line236" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="70.66227"
+         y1="190.41429"
+         x2="68.008575"
+         y2="189.49031"
+         id="line238" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="68.124275"
+         y1="198.14729"
+         x2="65.354042"
+         y2="197.33987"
+         id="line240" />
+      <line
+         fill="none"
+         stroke="#20201e"
+         stroke-width="0.710142"
+         x1="66.623459"
+         y1="205.99687"
+         x2="63.739155"
+         y2="205.64725"
+         id="line242" />
+    </g>
+  </g>
+</svg>

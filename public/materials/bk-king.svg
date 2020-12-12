@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg4907"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bk-king.svg">
+  <defs
+     id="defs4901" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33811728"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4904">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       stroke="#000000"
+       stroke-width="1.22441"
+       d="m 123.989,97.379385 c 4.42812,-3.813279 6.29852,-8.913666 6.29852,-14.526674 0,-1.643482 0.15968,-79.0673484 0.15968,-79.0673484 H 77.73563 c 0,0 -0.247796,78.0899324 -0.247796,79.0673484 0,5.654533 2.751303,10.790201 7.240099,14.612413 -3.174859,0.67288 -6.314634,1.496796 -9.419358,2.488645 4.965425,4.621041 9.655685,10.017491 13.994518,16.172571 6.148317,8.70918 11.235187,18.35368 15.228737,28.75286 3.99335,-10.39918 9.08344,-20.04386 15.22554,-28.75286 4.34816,-6.15508 9.04178,-11.5608 14.00719,-16.181498 -3.1758,-1.001244 -6.44979,-1.811709 -9.72384,-2.526857 z"
+       id="path2" />
+    <path
+       d="m 172.4772,273.35453 c -3.26122,-9.52166 -3.35058,-21.97138 -1.9023,-30.38022 1.48357,-8.65052 15.55488,-25.02079 15.55488,-25.02079 24.78856,-35.11076 30.46372,-85.16045 12.68024,-111.78311 -17.78968,-26.620413 -52.29587,-19.722472 -77.08353,15.39252 -7.40159,10.48984 -13.07998,22.309 -16.96174,34.44228 C 100.88628,143.87193 95.201697,132.05288 87.803104,121.56293 63.019515,86.447938 28.507395,79.550168 10.71956,106.17041 c -17.7817973,26.62037 -12.103321,76.67384 12.679016,111.78311 1.119023,1.583 13.472,16.37027 14.957021,25.02079 1.481906,8.64149 1.688177,21.0636 -1.876832,30.70102 h 0.535527 c -0.07835,0.0653 -0.155053,0.10714 -0.234969,0.17245 20.51042,14.73121 43.593562,23.01878 68.004577,23.01878 24.39147,-0.0457 47.14589,-8.82025 67.67399,-23.55235"
+       id="path4"
+       style="stroke-width:1.25581" />
+    <g
+       id="g10"
+       transform="matrix(1.0406624,0,0,1.5154321,-177.33116,-289.44179)">
+      <path
+         stroke="#ffffff"
+         stroke-width="3.1741"
+         stroke-linecap="round"
+         d="m 209.1954,370.2128 c 18.9687,-8.8515 39.9428,-13.7641 62.2548,-13.7641 21.4327,0 42.0035,5.2628 60.3546,12.7379"
+         id="path6" />
+      <path
+         stroke="#ffffff"
+         stroke-width="3.1741"
+         stroke-linecap="round"
+         d="m 340.9221,333.4665 c -19.7552,-6.704 -43.9635,-10.6549 -70.1201,-10.6549 -26.3853,0 -50.7842,4.0248 -70.636,10.8361"
+         id="path8" />
+    </g>
+    <polygon
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="1.9503"
+       stroke-linejoin="bevel"
+       points="249.1192,235.277 291.623,235.277 249.1192,197.1778 291.623,197.1778 "
+       id="polygon12"
+       transform="matrix(1.0406624,0,0,1.5154321,-177.33116,-289.44179)" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="3.98606"
+       stroke-linecap="round"
+       d="m 164.58682,251.1372 c -18.93102,-9.67983 -39.07209,-16.70064 -59.96371,-16.70064 -21.293923,0 -41.805907,7.2168 -61.044111,17.23606"
+       id="path14" />
+    <polygon
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="0.9974"
+       points="270.9531,340.262 280.9262,335.2912 270.9531,330.2889 260.98,335.2912 "
+       id="polygon16"
+       transform="matrix(1.0406624,0,0,1.5154321,-177.33116,-289.44179)" />
+    <polygon
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="0.9974"
+       points="230.8719,345.0755 239.9012,338.5631 229.2674,335.2283 220.2381,341.7722 "
+       id="polygon18"
+       transform="matrix(1.0406624,0,0,1.5154321,-177.33116,-289.44179)" />
+    <polygon
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="0.9974"
+       points="311.0343,345.0755 302.005,338.5631 312.6388,335.2283 321.6996,341.7722 "
+       id="polygon20"
+       transform="matrix(1.0406624,0,0,1.5154321,-177.33116,-289.44179)" />
+    <rect
+       x="81.917824"
+       y="9.3677483"
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="2.44921"
+       stroke-linejoin="bevel"
+       width="44.251572"
+       height="57.736752"
+       id="rect22" />
+    <ellipse
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="2.44921"
+       cx="104.41042"
+       cy="93.374359"
+       rx="18.656059"
+       ry="20.065683"
+       id="ellipse24" />
+  </g>
+</svg>
