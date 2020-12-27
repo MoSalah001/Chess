@@ -167,7 +167,12 @@ window.onload = () => {
       square.addEventListener("click", test);
     }
   }
+
   function test() {
+    let divs = document.getElementsByTagName("div");
+    for (let i = 0; i < divs.length; i++) {
+      divs[i].classList.remove("active");
+    }
     this.classList.toggle("active");
   }
 };
