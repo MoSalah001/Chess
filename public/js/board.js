@@ -15,11 +15,10 @@ export default class board {
           const fileNum = index % 8;
           this.element.appendChild(cell.element);
           if (rank % 2 === fileNum % 2) {
-            cell.element.style.backgroundColor = "black"
+            cell.element.style.backgroundColor = "grey"
           } else {
               cell.element.style.backgroundColor = 'white'
           }
       })
     }
-  }
-
+}

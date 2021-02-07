@@ -17,4 +17,17 @@
     height: 90vh;
     display: grid;
     grid-template-columns: repeat(8 , 1fr);
+    grid-template-rows: repeat(8 , 1fr);
+    align-content: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.piece {
+    width: 60px;
 }
