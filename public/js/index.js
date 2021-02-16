@@ -64,10 +64,72 @@ for( let i = 0; i<cells.length;i++){
 }
 
 function select() {
+
+
     for (let i= 0 ; i< cells.length ; i++){
     cells[i].classList.remove('clicked')
     }
+
+
     if (this.children[0].src !==""){
     this.classList.toggle('clicked')
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-drum.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-horse.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-elf.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-queen.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-king.svg") {
+        console.log(this.children[0]);
+    }
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/bk-sold.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-drum.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-horse.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-elf.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-queen.svg") {
+        console.log(this.children[0]);
+    }
+
+
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-king.svg") {
+        console.log(this.children[0]);
+    }
+
+    
+    if (this.children[0].src == "http://127.0.0.1:5500/public/materials/wh-sold.svg") {
+        console.log(this.children[0]);
     }
 }
