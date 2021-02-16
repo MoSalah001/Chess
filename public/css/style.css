@@ -31,3 +31,8 @@ div {
 .piece {
     width: 60px;
 }
+
+.clicked {
+    border-collapse: collapse;
+    border : 2px solid red;
+}

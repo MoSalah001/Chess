@@ -56,3 +56,13 @@ for(let i = 0; i < div.length;i++) {
         div[i].appendChild(img)
     }
 }
+
+let cells = document.querySelector('.board').children
+
+for( let i = 0; i<cells.length;i++){
+    cells[i].addEventListener('click',select)
+}
+
+function select() {
+    this.classList.toggle('clicked')
+}
