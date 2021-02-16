@@ -64,5 +64,10 @@ for( let i = 0; i<cells.length;i++){
 }
 
 function select() {
+    for (let i= 0 ; i< cells.length ; i++){
+    cells[i].classList.remove('clicked')
+    }
+    if (this.children[0].src !==""){
     this.classList.toggle('clicked')
+    }
 }
